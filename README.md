@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Lambert</h1>
 <h3 align="center">An aspiring software developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Javascript, Angular, Firebase**
+- 🌱 I’m currently learning **JavaScript Ecosystem**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, TypeScript**
 
 - 📫 How to reach me **asisjohnlambert5@gmail.com**
 
