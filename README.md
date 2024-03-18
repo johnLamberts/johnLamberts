@@ -9,7 +9,7 @@
 
 - 🌐 Want to check my works? **https://johnlambert-asis.com/**
 
-- 🌐 Check the latest project that I've completed: **https://bcc-opac-library.site/**
+- 🌐 Check the latest project: **https://bcc-opac-library.site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
