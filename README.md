@@ -13,6 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Linkedin: 📫 **https://www.linkedin.com/in/johnlambertasis/**
+  Facebook: 📫 **https://www.facebook.com/SanjiVinsmokeXNOKJLPA/**
+  Twitter:  📫 **https://twitter.com/decepticon_bots**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
