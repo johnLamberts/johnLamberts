@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **asisjohnlambert5@gmail.com**
 
-- 📄 Know about my experiences [lime-morganne-83.tiiny.site](lime-morganne-83.tiiny.site)
+- 📄 Know about my experiences [https://lime-morganne-83.tiiny.site/](lime-morganne-83.tiiny.site)
 
 - ⚡ Fun fact **Shy type mwehehehee....**
 
