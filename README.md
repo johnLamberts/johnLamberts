@@ -9,7 +9,7 @@
 
 - 👯 I’m doing upskill on [library system](https://bcc-opac-library.site/)
 
-- 👨‍💻 All of my projects are available at [https://www.johnlambert-asis.com/](https://www.johnlambert-asis.com/)
+- 👨‍💻 All of my projects are available at (https://www.johnlambert-asis.com/)
 
 - 💬 Ask me about **React, and Angular**
 
