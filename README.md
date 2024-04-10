@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="32px" height="32px">, I'm John Lambert P. Asis</h1>
 <h3 align="center">Aspiring software developer based in Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlamberts&label=Profile%20views&color=0e75b6&style=flat" alt="johnlamberts" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=johnlamberts&label=Profile%20views&color=0e75b6&style=flat" alt="johnlamberts" /> </p>
 
-<img src="./github-header-image.png" />
+<img src="./Screenshot from 2024-04-10 11-40-34.png" />
 - 🔭 I’m currently working on [kapejuancafe](htttps://www.kapejuancafe.shop/)
 
 - 🌱 I’m currently learning **web development**
