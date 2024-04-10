@@ -46,6 +46,12 @@
 <a href="https://github.com/johnLamberts/collections-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=collections-js&icons=true&theme=transparent" />
 </a>
+<a href="https://github.com/johnLamberts/Trello-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=Trello-Clone&icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/johnLamberts/wonderpets.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=wonderpets.github.io&icons=true&theme=transparent" />
+</a>
 <a href="https://github.com/johnLamberts/record-ms_general-service-office">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=record-ms_general-service-office&icons=true&theme=transparent" />
 </a>
