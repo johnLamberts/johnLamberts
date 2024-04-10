@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlamberts&label=Profile%20views&color=0e75b6&style=flat" alt="johnlamberts" /> </p>
 
-<p align="center">
-  
-<img src="./Screenshot from 2024-04-10 11-40-34.png" />
-
 </p>
 - 🔭 I’m currently working on [kapejuancafe](htttps://www.kapejuancafe.shop/)
 
