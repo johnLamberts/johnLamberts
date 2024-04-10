@@ -19,17 +19,14 @@
 
 - ⚡ Fun fact **Shy type mwehehehee....**
 
-
-    <br />
-
     <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&icons=true&theme=radical" />
 </a>
-
+  <br />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=johnLamberts&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=johnLamberts&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -39,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=johnLamberts&show_icons=true" />
 </picture>
 
-br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
