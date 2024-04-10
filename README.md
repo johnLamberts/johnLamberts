@@ -29,6 +29,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 ### Working and learning with:
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nextjs,docker,prisma,postgres,vscode,github,figma,wordpress,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
