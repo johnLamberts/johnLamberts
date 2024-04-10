@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Lambert P. Asis</h1>
+<h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="32px" height="32px">, I'm John Lambert P. Asis</h1>
 <h3 align="center">Aspiring software developer based in Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlamberts&label=Profile%20views&color=0e75b6&style=flat" alt="johnlamberts" /> </p>
