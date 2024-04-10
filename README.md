@@ -19,10 +19,7 @@
 
 - ⚡ Fun fact **Shy type mwehehehee....**
 
-    <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&icons=true&theme=radical" />
-</a>
+
   <br />
 <picture>
   <source
@@ -37,6 +34,12 @@
 </picture>
 
 <br />
+
+<h3 align="left">Some of my works:</h3>
+    <br />
+<a href="https://github.com/johnLamberts/okata-food-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=okata-food-shop&icons=true&theme=radical" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
