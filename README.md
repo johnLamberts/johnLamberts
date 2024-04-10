@@ -28,14 +28,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Frontend Technology:</p>
+<b>Frontend Technology:</b> <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,tailwind,ts,react,angular,styledcomponents,materialui" />
   </a>
-
-  <p>Backend Technology:</p>
+  <br />
+  <b>Backend Technology:</b> <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,cs,materialui,html,css,figma,angular" />
+    <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,cs" />
   </a>
 
 
