@@ -37,26 +37,26 @@
 
 <h3 align="left">Some of my works:</h3>
 <a href="https://github.com/johnLamberts/okata-food-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=okata-food-shop&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=okata-food-shop&icons=true&theme=dark" />
 </a>
 <a href="https://github.com/johnLamberts/open-library-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=open-library-system&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=open-library-system&icons=true&theme=dark" />
 </a>
 <br />
 <a href="https://github.com/johnLamberts/collections-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=collections-js&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=collections-js&icons=true&theme=dark" />
 </a>
 <a href="https://github.com/johnLamberts/Trello-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=Trello-Clone&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=Trello-Clone&icons=true&theme=dark" />
 </a>
 <a href="https://github.com/johnLamberts/wonderpets.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=wonderpets.github.io&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=wonderpets.github.io&icons=true&theme=dark" />
 </a>
 <a href="https://github.com/johnLamberts/record-ms_general-service-office">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=record-ms_general-service-office&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=record-ms_general-service-office&icons=true&theme=dark" />
 </a>
 <a href="https://github.com/johnLamberts/mis-eye-clinic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=mis-eye-clinic&icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=mis-eye-clinic&icons=true&theme=dark" />
 </a>
 
 
