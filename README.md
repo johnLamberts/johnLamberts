@@ -28,11 +28,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### Working and learning with:
-<p align="center">
+### Frontend Technology:
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,ts,react,materialui,html,css,figma,angular" />
   </a>
-</p>
+
 
 
