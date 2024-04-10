@@ -29,7 +29,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 ### Working and learning with:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nextjs,docker,prisma,postgres,vscode,github,figma,wordpress,discord)](https://skillicons.dev)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnlamberts&show_icons=true&locale=en&layout=compact" alt="johnlamberts" /></p>
 
