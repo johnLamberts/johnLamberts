@@ -29,9 +29,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>Frontend Technology:</p>
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,ts,react,materialui,html,css,figma,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,tailwind,ts,react,angular,styledcomponents,materialui" />
+  </a>
+
+  <p>Backend Technology:</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,express,nodejs,cs,materialui,html,css,figma,angular" />
   </a>
 
 
