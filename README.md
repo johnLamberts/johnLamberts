@@ -32,8 +32,3 @@
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nextjs,docker,prisma,postgres,vscode,github,figma,wordpress,discord)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnlamberts&show_icons=true&locale=en&layout=compact" alt="johnlamberts" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnlamberts&show_icons=true&locale=en" alt="johnlamberts" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnlamberts&" alt="johnlamberts" /></p>
