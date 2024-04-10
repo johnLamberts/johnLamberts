@@ -23,7 +23,7 @@
   <br />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=johnLamberts&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=johnLamberts&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -37,20 +37,20 @@
 
 <h3 align="left">Some of my works:</h3>
 <a href="https://github.com/johnLamberts/okata-food-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=okata-food-shop&icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=okata-food-shop&icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/johnLamberts/open-library-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=open-library-system&icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=open-library-system&icons=true&theme=transparent" />
 </a>
 <br />
 <a href="https://github.com/johnLamberts/collections-js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=collections-js&icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=collections-js&icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/johnLamberts/record-ms_general-service-office">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=record-ms_general-service-office&icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=record-ms_general-service-office&icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/johnLamberts/mis-eye-clinic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=mis-eye-clinic&icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=mis-eye-clinic&icons=true&theme=transparent" />
 </a>
 
 
