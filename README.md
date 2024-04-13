@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlamberts&label=Profile%20views&color=0e75b6&style=flat" alt="johnlamberts" /> </p>
 
 </p>
-- 🔭 I’m currently working on [kapejuancafe](htttps://www.kapejuancafe.shop/)
+- 🔭 I’m currently working on [kapejuancafe](htttps://kapejuancafe.shop/)
 
 - 🌱 I’m currently learning **web development**
-
-- 👯 I’m doing upskill on [library system](https://bcc-opac-library.site/)
 
 - 👨‍💻 All of my projects are available at (https://www.johnlambert-asis.com/)
 
