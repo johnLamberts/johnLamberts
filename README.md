@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlamberts&label=Profile%20views&color=0e75b6&style=flat" alt="johnlamberts" /> </p>
 
 </p>
-- 🔭 I’m currently working on [kapejuancafe](htttps://kapejuancafe.shop/)
+- 🔭 I’m currently working on [kapejuancafe](https://kapejuancafe.shop/)
 
 - 🌱 I’m currently learning **web development**
 
