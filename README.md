@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [[https://lime-morganne-83.tiiny.site/](lime-morganne-83.tiiny.site)](https://lime-morganne-83.tiiny.site/)
 
-- ⚡ Fun fact **Cloud enthusiast :]]** ***and*** **my capstone project is live at:** ***https://bcc-library-opac.site***
+- ⚡ Fun fact **Cloud enthusiast :]]** ***and*** **my capstone project is live at:** ***https://bcc-opac-library.site***
 
 
   <br />
