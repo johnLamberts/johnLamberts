@@ -58,6 +58,9 @@
 <a href="https://github.com/johnLamberts/mis-eye-clinic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=mis-eye-clinic&icons=true&theme=dark" />
 </a>
+<a href="https://github.com/johnLamberts/starter-template-react-shadcn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnLamberts&repo=starter-template-react-shadcn&icons=true&theme=dark" />
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
