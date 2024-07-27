@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="32px" height="32px">, I'm John Lambert P. Asis</h1>
-<h3 align="center">Aspiring software developer based in Philippines</h3>
+<h3 align="center"> Software developer based in Philippines</h3>
 
 
 
