@@ -1,55 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=John%20Lambert%20Asis&fontSize=70" width="100%" />
-  
-  <br/>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=150&section=header&text=JOHN%20LAMBERT%20ASIS&fontSize=50&fontAlignY=45&fontColor=FFFFFF" width="100%" />
 
-  ### ⚡ Software Engineer | Full-Stack Developer
-  *Building scalable web solutions and exploring the depths of system architecture.*
+  **SOFTWARE ENGINEER | FULL-STACK DEVELOPER**
+  *Specializing in scalable web architecture and system administration*
 
   ---
-
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnlambertasis)
-  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/decepticon_bots)
-  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jjohnlambert)
+  
+  [LinkedIn](https://linkedin.com/in/johnlambertasis) / [Professional Portfolio](https://github.com/your-portfolio-link) / [Contact](mailto:your-email@example.com)
 
 </div>
 
----
+### ▪️ Professional Profile
+Software Engineer at **SEIKO-IT SOLUTION PHILIPPINES, INC.** with a focus on building robust enterprise solutions. I bridge the gap between frontend interactivity and backend efficiency, specifically within the React and .NET ecosystems.
 
-### 🚀 About Me
-
-- 💻 Currently working at **SEIKO-IT SOLUTION PHILIPPINES, INC.** as a Software Engineer.
-- 🎓 Recently completed **HIRALIKA**, a gamified Learning Management System.
-- 🛠️ Specializing in **React, C#, and SQL**, with a focus on hybrid translation systems and API security.
-- 🐧 Linux enthusiast (Ubuntu) and an aspiring stock market trader.
-
-### 🛠️ Tech Stack & Tools
-
-#### **Frontend & Design**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents,mui,figma" />
-</a>
-
-#### **Backend & Databases**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,nodejs,express,php,mysql,supabase,firebase" />
-</a>
-
-#### **DevOps & Workflow**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vite,vercel" />
-</a>
+* **Core Expertise:** Developed a gamified Learning Management System (HIRALIKA) for a master's thesis, implementing complex logic and user engagement features.
+* **Systems & Security:** Experienced in Linux server administration (Ubuntu 24.04) and penetration testing protocols for web applications.
+* **Multilingual Support:** Architected hybrid translation systems integrating localized JSON assets with the Google Translate API.
 
 ---
 
-### 📊 GitHub Stats
+### ▪️ Technical Arsenal
+
+**Development Stack**
+`TypeScript` `JavaScript` `C#` `PHP` `Node.js` `Express`
+
+**UI / UX Frameworks**
+`React` `Angular` `Tailwind CSS` `Material UI` `Styled Components` `Figma`
+
+**Data & Cloud**
+`MySQL` `Supabase` `Firebase` `Vercel` `RESTful APIs`
+
+**Environment & Tools**
+`Linux` `Git` `VS Code` `Vite` `Burp Suite`
+
+---
+
+### ▪️ Engagement Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&show_icons=false&text_color=71767c&title_color=ffffff" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&text_color=71767c&title_color=ffffff" alt="Top Languages" height="150" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quotes" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Tech Quotes" />
+</p>
