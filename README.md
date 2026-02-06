@@ -10,14 +10,6 @@
 
 <br />
 
-### ⚡ `root@john-lambert:~# whoami`
-
-> **Software Engineer** at **SEIKO-IT SOLUTION PHILIPPINES**.
->
-> I build **Enterprise Architectures** and secure **Linux Systems**. My work bridges the gap between complex **.NET/SQL** backends and reactive **frontend interfaces**. Currently scaling the **HIRALIKA** LMS and hardening **Ubuntu** servers against modern security threats.
-
-<br />
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </div>
