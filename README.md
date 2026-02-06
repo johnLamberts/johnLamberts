@@ -13,8 +13,9 @@
 ```bash
 john@seiko-it:~$ neofetch
 
-
-.-/+oossssoo+/-.               john@github
+<h3>💻 System Status: Online</h3>
+<pre>
+            .-/+oossssoo+/-.               john@github
         `:+ssssssssssssssssss+:`           -----------
       -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04 LTS (Linux)
     .ossssssssssssssssssdMMMNysssso.       Role: Software Engineer @ SEIKO-IT
@@ -34,3 +35,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   > Location: Philippines
       -+ssssssssssssssssssyyssss+-
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.
+</pre>
+
+<br />
+
+```bash
+john@seiko-it:~$ cat technical_skills.json
