@@ -10,10 +10,14 @@
 
 <br />
 
-```bash
-john@seiko-it:~$ echo $CURRENT_PROFILE
-```
+### ⚡ `root@john-lambert:~# whoami`
 
-"Software Engineer @ SEIKO-IT (Oct 2025 - Present).
-I specialize in building scalable web architectures using React and C# while maintaining robust Linux infrastructure. 
-My work spans from developing hybrid translation systems to hardening Ubuntu servers and securing enterprise APIs."
+> **Software Engineer** at **SEIKO-IT SOLUTION PHILIPPINES**.
+>
+> I build **Enterprise Architectures** and secure **Linux Systems**. My work bridges the gap between complex **.NET/SQL** backends and reactive **frontend interfaces**. Currently scaling the **HIRALIKA** LMS and hardening **Ubuntu** servers against modern security threats.
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
