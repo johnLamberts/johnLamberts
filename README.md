@@ -11,15 +11,9 @@
 <br />
 
 ```bash
-john@seiko-it:~$ neofetch
+john@seiko-it:~$ echo $CURRENT_PROFILE
 ```
-### 🟧 System Message
 
-```bash
-Welcome to Ubuntu 24.04.1 LTS (GNU/Linux 6.8.0-31-generic x86_64)
-
- * Documentation:  [https://github.com/johnlambertasis](https://github.com/johnlambertasis)
- * Management:     SEIKO-IT SOLUTION PHILIPPINES, INC.
-
-Last login: Fri Feb 06 2026 from 192.168.1.10
-john@seiko-it:~$ cat /etc/about_me.txt
+"Software Engineer @ SEIKO-IT (Oct 2025 - Present).
+I specialize in building scalable web architectures using React and C# while maintaining robust Linux infrastructure. 
+My work spans from developing hybrid translation systems to hardening Ubuntu servers and securing enterprise APIs."
