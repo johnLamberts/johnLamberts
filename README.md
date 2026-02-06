@@ -12,7 +12,7 @@
 
 ```bash
 john@seiko-it:~$ neofetch
-
+```
 <h3>💻 System Status: Online</h3>
 <pre>
             .-/+oossssoo+/-.               john@github
@@ -39,5 +39,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   > Location: Philippines
 
 <br />
 
-```bash
+
 john@seiko-it:~$ cat technical_skills.json
