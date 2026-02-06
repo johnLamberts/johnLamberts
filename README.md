@@ -1,79 +1,82 @@
-
 ```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=250&section=header&text=John%20Lambert%20P.%20Asis&fontSize=50&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20System%20Admin%20%7C%20Full-Stack%20Dev&descSize=20&descAlignY=65&descColor=fff" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=JOHN+LAMBERT+P.+ASIS;SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;BUILDING+SCALABLE+SOLUTIONS" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Lambert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnlambertasis)
-  [![Twitter](https://img.shields.io/badge/Twitter-@decepticon__bots-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/decepticon_bots)
-  [![Instagram](https://img.shields.io/badge/Instagram-@_jjohnlambert-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jjohnlambert)
-  
+  <a href="https://linkedin.com/in/johnlambertasis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/johnlambertasis">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
 
----
+<br />
 
-### 👨‍💻 `User.Profile`
+### 💻 // PROFESSIONAL_CONTEXT
 
-```javascript
-const john_lambert = {
-  current_role: "Software Engineer",
-  company: "SEIKO-IT SOLUTION PHILIPPINES, INC.",
-  started: "October 2025",
-  code: ["React", "C#", "SQL", "TypeScript"],
-  tools: ["Linux (Ubuntu)", "Burp Suite", "Vercel"],
-  current_focus: "Web Technologies & System Administration",
-  interests: ["Stock Market", "Cybersecurity", "Gamified Systems"]
-};
+```csharp
+namespace JohnLambert.Profile
+{
+    public class SoftwareEngineer
+    {
+        public string CurrentEmployer  { get; set; } = "SEIKO-IT SOLUTION PHILIPPINES, INC.";
+        public string StartDate        { get; set; } = "October 20, 2025";
+        public string[] CoreStack      = { "C# / ASP.NET", "React.js", "SQL", "Linux" };
+        public string[] SystemFocus    = { "Ubuntu 24.04 Admin", "API Security", "Hybrid Translation" };
+        
+        public void GetStatus()
+        {
+            Console.WriteLine("Deploying scalable enterprise applications & securing backend infrastructure.");
+        }
+    }
+}
 
 ```
 
----
+<br />
 
-### 🚀 **Featured Experience**
+### 📂 // PROJECT_LOGS
 
-| Role | Details |
-| --- | --- |
-| **Software Engineer** | **SEIKO-IT SOLUTION PHILIPPINES, INC.**<br>
+| ID | PROJECT | ROLE | DESCRIPTION |
+| --- | --- | --- | --- |
+| **01** | **SEIKO-IT INFRASTRUCTURE** | *Software Engineer* | Leading development on enterprise web apps. Implementing localized JSON translation systems and managing large-scale database cleanup/migration protocols. |
+| **02** | **HIRALIKA (LMS)** | *Lead Architect* | Freelance Master's Thesis project. Built a gamified Learning Management System with real-time progress tracking and secure user authentication. |
+| **03** | **SYSTEM HARDENING** | *SysAdmin* | Configuring Ubuntu 24.04 environments, troubleshooting Vercel deployments, and auditing permissions (UID/Root) for secure production releases. |
+| **04** | **SECURITY AUDIT** | *Penetration Tester* | Utilizing Burp Suite to test SQL injection vulnerabilities and mitigate brute-force attacks on login APIs. |
 
-<br>Working on enterprise web solutions, hybrid translation systems, and system administration. |
-| **Lead Developer** | **HIRALIKA (Master's Thesis)**<br>
+<br />
 
-<br>Architected a gamified Learning Management System (LMS). Focused on user engagement and scalable backend logic. |
-| **Freelance** | **Full-Stack Development**<br>
+### 🛠 // TECH_STACK_INVENTORY
 
-<br>Specializing in modern web stacks (MERN/.NET) and secure API implementation. |
+<div align="left">
 
----
-
-### 🛠️ **Tech Stack & Arsenal**
-
-<div align="center">
-
-| Frontend | Backend | Systems & Tools |
+| **CORE LANGUAGES** | **FRAMEWORKS & RUNTIME** | **INFRASTRUCTURE & OPS** |
 | --- | --- | --- |
-| <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,ts,tailwind,figma,angular,materialui" width="200" /> | <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs,dotnet,nodejs,mysql,supabase,firebase" width="200" /> | <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,git,github,vscode,vite,vercel" width="200" /> |
+|  |  |  |
 
 </div>
 
----
+<br />
 
-### ⚡ **Github Stats**
+### 📊 // METRICS
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djohnlambertasis%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djohnlambertasis%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117" alt="Streak Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djohnlambertasis%26show_icons%3Dtrue%26theme%3Dmidnight-dwn%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GitHub Stats" height="160" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djohnlambertasis%26layout%3Dcompact%26theme%3Dmidnight-dwn%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" height="160" />
 </div>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djohnlambertasis%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" />
-</div>
-
----
+<br />
 
 <div align="center">
-<p><i>"Quality code is the best documentation."</i></p>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Drect%26color%3D0D1117%26height%3D2%26section%3Dfooter" width="100%" />
+<p style="font-family: monospace; color: #888;">// SYSTEM READY. END OF LINE.</p>
 </div>
 
 ```
