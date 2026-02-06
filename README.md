@@ -14,3 +14,7 @@
 john@seiko-it:~$ neofetch
 ```
 
+### ⚡ root@john-lambert:~# whoami
+
+**Software Engineer** at **SEIKO-IT SOLUTION PHILIPPINES, INC.**, bridging the gap between scalable **React/C#** applications and robust **Linux** infrastructure. I specialize in building enterprise-grade systems—from gamified platforms like **HIRALIKA** to secure, hybrid translation architectures—while actively managing server hardening and automated deployment pipelines. Currently focused on deepening my expertise in system security and algorithmic trading strategies.
+
