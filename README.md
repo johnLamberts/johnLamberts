@@ -12,3 +12,25 @@
 
 ```bash
 john@seiko-it:~$ neofetch
+
+
+.-/+oossssoo+/-.               john@github
+        `:+ssssssssssssssssss+:`           -----------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04 LTS (Linux)
+    .ossssssssssssssssssdMMMNysssso.       Role: Software Engineer @ SEIKO-IT
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Focus: Full-Stack & System Admin
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Thesis: HIRALIKA (Gamified LMS)
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    -------------------------------
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   CONTACT_INFO:
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   > LinkedIn: /in/johnlambertasis
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   > Email: johnlambertasis@gmail.com
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   > Location: Philippines
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   -------------------------------
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   CURRENT_TASKS:
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    [+] Auditing Linux Permissions
+  +ssssssssshmydMMMMMMMNddddyssssssss+     [+] Translating JSON Assets (React)
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      [+] Learning Stock Market Trading
+    .ossssssssssssssssssdMMMNysssso.
+      -+ssssssssssssssssssyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
