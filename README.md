@@ -1,8 +1,3 @@
-To create a **modern, code-techy, and aesthetic** GitHub profile, we should move away from the basic list format and use dynamic elements, code blocks, and a dark-mode-optimized layout.
-
-Based on your background (SEIKO-IT, the Hiralika project, and your system admin work), here is a complete `README.md` redesign.
-
-### **Copy the code below into your GitHub README:**
 
 ```markdown
 <div align="center">
@@ -82,15 +77,5 @@ const john_lambert = {
 </div>
 
 ```
-
-### **Design Highlights:**
-
-1.  **Terminal Header:** The top image uses a "waving" animation with a dark background (`0d1117`) that matches GitHub's dark mode, giving it a seamless look.
-2.  **Code Block Intro:** Instead of writing a paragraph, I used a JavaScript object `const john_lambert`. This immediately tells recruiters, "I am a developer."
-3.  **Structured Experience:** I pulled your specific role at **SEIKO-IT** and your **Hiralika** project into a clean table. This is much easier to read than a wall of text.
-4.  **Categorized Skills:** Instead of one long line of icons, I separated them into Frontend, Backend, and Systems (highlighting your Linux/C\# skills) for better organization.
-5.  **Color Match:** The stats cards use the `tokyonight` theme with a custom background color to blend perfectly into the page.
-
-**Note:** You may need to verify your GitHub username in the stats links (I used `johnlambertasis` based on your LinkedIn URL, but if it's different, just swap it out\!).
 
 ```
