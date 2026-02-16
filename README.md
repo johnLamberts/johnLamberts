@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=E95420&center=true&vCenter=true&width=1000&lines=root@ubuntu:~%23+apt-get+install+john-lambert-asis;Loading+Software+Developer+/+Engineer+Profile...;[===========================]+100%25" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=E95420&center=true&vCenter=true&width=1000&lines=root@ubuntu:~%23+apt-get+install+john-lambert-asis;Loading+Software+Engineer+Profile...;[===========================]+100%25" alt="Terminal Header" />
 </div>
 
 <div align="center">
